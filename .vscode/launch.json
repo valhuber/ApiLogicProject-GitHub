@@ -82,7 +82,7 @@
             "justMyCode": false,
             "args": [
                 "--flask_host=localhost", "--port=5656", "--verbose=True",
-                "--swagger_host=valhuber-tutorial-apilogicproject-jjr5qwg72vxg-5656.githubpreview.dev", 
+                "--swagger_host=valhuber-apilogicproject-github-r47gpvx6h5rx6-5656.githubpreview.dev", 
                 "--swagger_port=443", "--http_type=https"
             ],
             "console": "integratedTerminal"
